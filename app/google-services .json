@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "589072309108",
+    "firebase_url": "https://tracker-6a798.firebaseio.com",
+    "project_id": "tracker-6a798",
+    "storage_bucket": "tracker-6a798.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589072309108:android:695ef3c3da236e0044ea21",
+        "android_client_info": {
+          "package_name": "com.egehan.Coronameter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "589072309108-rtvjtpgi3d8e1clitdkj38k16fvdousj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtdpSfJzz_3k5nJUQlGXFFXywt1Mg0QnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "589072309108-rtvjtpgi3d8e1clitdkj38k16fvdousj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
